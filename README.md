@@ -1,4 +1,4 @@
-# serial Peripheral Interface._Master_Project-
+# serial Peripheral Interface
 # Master Controller using Verilog
 
 A synthesizable SPI Master Controller designed and verified using Verilog HDL. 
