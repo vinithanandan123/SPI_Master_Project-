@@ -1,5 +1,5 @@
 # serial Peripheral Interface._Master_Project-
-# SPI Master Controller using Verilog
+# Master Controller using Verilog
 
 A synthesizable SPI Master Controller designed and verified using Verilog HDL. 
 The project demonstrates serial data transmission using SPI protocol and is simulated using Verilator with waveform analysis through GTKWave.
